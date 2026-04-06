@@ -1,0 +1,6 @@
+﻿# Install the correct ReMe (AgentScope ReMe) directly from GitHub
+git+https://github.com/agentscope-ai/ReMe.git
+
+requests
+python-dotenv
+pydantic
